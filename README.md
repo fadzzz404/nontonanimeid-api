@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://nontonanimeid-api.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+NontonAnimeID+API;%E2%9C%A8+Restfull+Anime+%26+Comic+Api" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%F0%9F%9A%80+Welcome+to+NontonAnimeID+API;%E2%9C%A8+Restfull+Anime+Api" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,14 +25,14 @@
 </h2>
 
 <p align="center">
-  <strong>Powering thousands of applications worldwide with real-time anime and comic data</strong>
+  <strong>Powering thousands of applications worldwide with real-time anime data</strong>
 </p>
 
 ---
 
 ## 🎯 Overview
 
-**NontonAnimeID API** is a powerful, free REST API service that provides comprehensive access to anime and comic data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime and comic-related applications.
+**NontonAnimeID API** is a powerful, free REST API service that provides comprehensive access to anime data. With coverage spanning from 1917 to the present day, our API offers developers a robust solution for building anime-related applications.
 
 ### ✨ Key Highlights
 
@@ -234,13 +234,13 @@ Build iOS & Android apps with our comprehensive API
 Create responsive web apps with real-time data
 
 #### 🤖 Discord Bots
-Power your Discord server with anime/comic features
+Power your Discord server with anime features
 
 #### 📊 Data Analysis
-Research and analyze anime/comic trends
+Research and analyze anime trends
 
 #### 🎮 Game Development
-Integrate anime/comic data into your games
+Integrate anime data into your games
 
 #### 🔔 Tracking Apps
 Build watchlist and reading list applications
@@ -358,7 +358,7 @@ Support the development and server costs:
 
 ### Copyright Notice
 
-All anime and comic content metadata is sourced from publicly available information. We respect intellectual property rights and will promptly address any copyright concerns.
+All anime content metadata is sourced from publicly available information. We respect intellectual property rights and will promptly address any copyright concerns.
 
 ---
 
